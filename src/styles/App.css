@@ -1,0 +1,36 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#break-label,
+#session-label,
+#timer-label {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+button {
+  font-size: 20px;
+  margin: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+#break-length,
+#session-length,
+#time-left {
+  font-size: 20px;
+  margin: 0 10px;
+}
+
+#time-left {
+  font-size: 48px;
+  margin-top: 20px;
+}
+#start_stop,
+#reset {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
